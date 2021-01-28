@@ -1,3 +1,7 @@
+/* Linear search
+All Index check ,if found print
+*/
+
 #include<stdio.h>
 int search(int n,int s,int array[]);
 
